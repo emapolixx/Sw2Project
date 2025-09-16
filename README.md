@@ -3,9 +3,9 @@
 ## Overview
 **Students & Companies (S&C)** is a web platform designed to facilitate the connection between **university students searching for internships**, **companies seeking young talent**, and **universities** monitoring the quality of internships.
 
-The main goal is to make the internship application and selection process more **transparent, efficient, and centralized**, reducing complexity for all parties involved:contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}.
+The main goal is to make the internship application and selection process more **transparent, efficient, and centralized**, reducing complexity for all parties involved
 
----
+--
 
 ## Architecture & Design
 - **Microservices architecture** for scalability, resilience, and independence of components.  
